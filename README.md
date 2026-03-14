@@ -92,6 +92,11 @@
 - YouTube频道对应视频: https://youtu.be/QYm8io-0UIQ                                                                   
 - B站频道对应视频:https://www.bilibili.com/video/BV1cDBCBQEm8/                    
 
+5. 【n8n实战经验小Tip】Sora2文生视频 附赠 Sora 创意输入结构化Agent、Sora 视频提示词生成Agent｜最小配置颗粒度拆解｜开源可抄作业               
+- 资料在项目内 tips 文件夹中的 05_*** 文件夹，下载即可                                                         
+- YouTube频道对应视频:                                                                            
+- B站频道对应视频:                  
+
 ## 其他推荐
 
 1. 大模型应用技术开发-入门系列            
