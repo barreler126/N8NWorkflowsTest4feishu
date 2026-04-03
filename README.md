@@ -71,10 +71,10 @@
 - YouTube频道对应视频:https://youtu.be/p-dpips0Kd0                                                              
 - B站频道对应视频: https://www.bilibili.com/video/BV1f4kHBaE1a/
 
-9. 还再手动刷公众号推文？我用n8n+飞书+Agent搭了个公众号推文智能情报台：24小时内公众号推文自动去重归档并推送至飞书群，采集清洗/摘要/选编/推送闭环
-- 说明文档在项目内 workflows 文件夹中的 08_*** 文件夹，工作流配置文件等资料在视频置顶评论中提供了下载链接
-- YouTube频道对应视频:https://youtu.be/veHZIqsrwPU       
-- B站频道对应视频:
+9. 还再手动刷公众号推文？我用n8n+飞书+Agent搭了个公众号推文智能情报台：24小时内公众号推文自动去重归档并推送至飞书群，采集清洗/摘要/选编/推送闭环          
+- 说明文档在项目内 workflows 文件夹中的 08_*** 文件夹，工作流配置文件等资料在视频置顶评论中提供了下载链接            
+- YouTube频道对应视频:https://youtu.be/veHZIqsrwPU             
+- B站频道对应视频:https://www.bilibili.com/video/BV1ii9NBrE8b/         
 
 ## n8n实战经验小Tips            
 1. 【n8n实战经验小Tip】飞书服务使用前配置｜最小配置颗粒度拆解｜开源可抄作业                       
